@@ -14,7 +14,7 @@
 			scope: {
 					data:'@'
 			},
-			template:	'<div><h3>{{data}}</h3></div>'
+			template:	'<div><h3 class="demo-h3">{{data}}</h3></div>'
 		};
 	});
 })();
